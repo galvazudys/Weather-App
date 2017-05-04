@@ -1,4 +1,4 @@
-import API_KEY from './index';
+import API_KEY from './api';
 
 export const FETCH_WEATHER = 'FETCH_WEATHER'
 
