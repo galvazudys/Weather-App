@@ -3,7 +3,7 @@ bundle.js
 npm-debug.log
 .DS_Store
 .vscode
-/src/actions/api.js
+config.js
 
 # IntelliJ
 *.iml
